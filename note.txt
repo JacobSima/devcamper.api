@@ -1,0 +1,8 @@
+https://blog.websecurify.com/2014/08/hacking-nodejs-and-mongodb.html
+
+https://github.com/thedevsaddam/docgen
+
+https://github.com/thedevsaddam/docgen-bin/blob/master/v2.4/windows_amd64.exe.zip
+
+./docgen build -i API.json -o index.html    : to build the html file from the postman exported json file. make sure that your binary link file is in the same folder with the json and run this command to build the html
+
